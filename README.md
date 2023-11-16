@@ -1,3 +1,3 @@
 # Numero-secreto
 
-Reconhecimento de voz nao esta funcionado no opera 
+Reconhecimento de voz nao esta funcionado no opera
